@@ -2,6 +2,12 @@
 #include <stdio.h>
 #include "crypto.h"
 
+/**
+ * ## Developed for the JMU ISAT465 Semester Project ##
+ * Authors: Isaac Sumner & Troy Gamboa
+ * Date: 4/25/17
+ */
+
 /*
  * Takes chars representing data in hex 
  * and converts it to bytes.

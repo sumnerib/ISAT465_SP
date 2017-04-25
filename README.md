@@ -7,3 +7,8 @@ Capture packets using a tool like Wireshark and copy the encrypted data
 provide the Temporal Key (TK). This can be found with a tool like aircrack-ng,
 or, if you know the password, you can decrypt the packets in Wireshark and it will 
 show you the TK.
+
+## Disclaimer ##
+This is intended for educational purposes only. The routines used for generating the ppk and decrypting 
+are from the aircrack-ng repository. See "https://github.com/aircrack-ng/aircrack-ng". The file crypto.h
+was copied from this repo and is not our intellectual property.
